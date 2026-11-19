@@ -7,3 +7,5 @@ The other threads are put to sleep by the OS and only wakes up when whatever it 
 
 
 NonBlocking I/O : When a socket is set to nonblocking mode, a call to recv (and to send) will always return very quickly, even if there's no data to receive.
+
+# Synchronous, asynchronous, event-driven, callback-based
